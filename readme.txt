@@ -1,1 +1,3 @@
 This is the first file added to my local repo in git-it challenges
+
+Il y avait une autre ligne a ajouter pour tester "diff" ...
